@@ -9,13 +9,13 @@ Atuo com **Power BI, SQL e Python**, desenvolvendo análises, automações e das
 - Exploro APIs, Python e Databricks para criar análises mais completas e automatizadas.  
 - Busco constantemente melhorar minhas habilidades em **visualização e storytelling de dados**.
 
-💡 **Tecnologias & Ferramentas**
+💡 **Tecnologias & Ferramentas**<br>
 `Python` `SQL` `Power BI` `Pandas` `Plotly` `Databricks` `Excel` `Streamlit` `ETL` `Data Visualization`
 
-🌱 **Em evolução**
+🌱 **Em evolução**<br>
 Atualmente aprimorando minha parte de **design e visualização de dados**, criando dashboards com padrão corporativo e storytelling visual.
 
-📫 **Vamos nos conectar**
+📫 **Vamos nos conectar**<br>
 [LinkedIn](https://www.linkedin.com/in/marcondesnicolas/) • [GitHub](https://github.com/marcondezs)
 
 
